@@ -2,5 +2,5 @@ WPU resolusi
 - konsisten untuk membuat kontens sebanyak 2 kali 
 - membuat platform untuk pengelolaan video
 - membuat forum diskusi
-- membuat merch shop
 - kolaborasi dengan lebih banyak expert
+- membuat vlog
