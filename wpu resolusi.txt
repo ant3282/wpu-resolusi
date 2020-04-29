@@ -1,0 +1,4 @@
+WPU resolusi
+- konsisten untuk membuat kontens sebanyak 2 kali 
+- membuat platform untuk pengelolaan video
+- membuat forum diskusi
