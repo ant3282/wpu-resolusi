@@ -2,8 +2,10 @@ Rencana konten WPU
 - Javascript
   *ES6
   *Framework Javascript
-   ^Angular
+   ^view
    ^React
-- PHP Frameworks
+- Fundamental Data Structure
+- PHP
    ^Laravel
 - vlogs
+- phyton
